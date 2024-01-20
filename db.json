@@ -73,34 +73,57 @@
     },
     {
       "id": 12,
-      "name": "Nokia cục gạch",
+      "name": "Laptop Dell M3 cục gạch",
       "price": 100000,
       "categoryId": 4,
+      "typeId": 1
+    },
+    {
+      "id": 13,
+      "name": "Laptop Dell M3 ",
+      "price": 150000,
+      "categoryId": 4,
+      "typeId": 1
+    },
+    {
+      "id": 14,
+      "name": "Macbook Pro M5 ",
+      "price": 550000,
+      "categoryId": 5,
       "typeId": 1
     }
   ],
   "categories": [
     {
       "id": 1,
-      "name": "Apple"
+      "name": "Apple",
+      "typeId": 2
     },
     {
       "id": 2,
-      "name": "Samsung"
+      "name": "Samsung",
+      "typeId": 2
     },
     {
       "id": 3,
-      "name": "Xiaomi"
+      "name": "Xiaomi",
+      "typeId": 2
     },
     {
       "id": 4,
-      "name": "Nokia"
+      "name": "Dell",
+      "typeId": 1
+    },
+    {
+      "id": 5,
+      "name": "Macbook",
+      "typeId": 1
     }
   ],
   "types": [
     {
       "id": 1,
-      "name": "Cục gạch"
+      "name": "Laptop"
     },
     {
       "id": 2,
